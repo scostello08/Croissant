@@ -1,15 +1,20 @@
 body{
-    background-color: #ff007b;
+    background-color: #ff8585;
 }
 h1{
-    color: #ffebeb;
+    color: #ff007b;
     text-align: center;
-    font-size: 100px;
+    font-size: 80px;
+}
+p{
+    color:#ffebeb;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
 }
 .beach{
 border-radius: 20% 20% 0 0;
 display: block;
-margin-top: 70px;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
