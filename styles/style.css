@@ -1,0 +1,38 @@
+body{
+    background-color: #ff007b;
+}
+h1{
+    color: #ffebeb;
+    text-align: center;
+    font-size: 100px;
+}
+.beach{
+border-radius: 20% 20% 0 0;
+display: block;
+margin-top: 70px;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+box-shadow: 10px 5px 5px rgb(117, 88, 112);
+}
+.button{
+    margin-top: 20px;
+        padding: 10px 20px 10px 20px;
+        border: 2px solid #ffebeb;
+        color: #ffebeb !important;
+        text-decoration: none !important;
+        background-color: #ff5757;
+        border-radius: 100px;
+        margin-left:10px;
+        margin-right: 10px;
+}
+.button:hover {
+        text-decoration: none !important;
+        background-color: #ffebeb;
+        color: #ff5757 !important;
+        border: 2px solid #ff5757;
+        border-radius: 20px;
+    }
+.container{
+    margin-top: 30px;
+}
